@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.seventh__inner{
+    margin: 0 auto; 
+
+}
+.seventh__block{
+    margin: 0 auto;
+
+}
+.seventh__title{
+    margin-top: 120px;
+    justify-content: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #6D3496;
+    margin-top: 120px;
+}
+.seventh__form{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 70px;
+    color: #6D3496;
+}
+.seventh__sub{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #6D3496;
+    text-align: center;
+    margin-top: 20px;
+}
+.input__text{
+    border: 2px solid #6D3496;
+    border-radius: 3px;
+    padding: 10px 15px;
+    color: #6D3496; 
+    gap: 10px;
+    width: 392.5px;
+    height: 22px;
+}
+.registration__input__block{
+    width: 875px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+.input__text2{
+    border: 2px solid #6D3496;
+    border-radius: 3px;
+    padding-left: 15px;
+    color: #6D3496; 
+    gap: 10px;
+    width: 854px;
+    height: 108px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: #6D3496;
+}
+.registration__input__block2{
+    padding-top: 40px;
+    max-width: 875px;
+    margin: 0 auto;
+}
+.input__checkbox{
+    width: 20px;
+    height: 20px;
+    background: #6D3496;
+    padding-top: 5px;
+    margin: 0;
+}
+.registration__input__checkbox{
+    padding-top: 30px;
+    display: flex;
+    max-width: 875px;
+    max-height: 25px;
+    margin: 0 auto;
+}
+.registration__text{
+    padding-left: 10px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #6D3496;
+}
+.form__btn{
+    padding-top: 30px;
+    padding-bottom: 130px;
+}
+.footer__button{
+    margin: 0 auto; 
+    margin-top: 30px;
+    background: #6D3496;
+    width: 216px;
+    height: 50px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+.footer__text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFBF1;
+}
+.footer__bg{
+    margin: 0 auto;
+    height: 433px;
+    background: #6D3496;
+}
